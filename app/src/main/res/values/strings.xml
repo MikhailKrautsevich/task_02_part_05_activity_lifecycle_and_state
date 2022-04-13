@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Activity lifecycle and state</string>
+
+    <string name="textview_hint">Smth</string>
+    <string name="btn_count_text">count</string>
+    <string name="edittext_hint">Type smth here.</string>
 </resources>
